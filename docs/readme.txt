@@ -10,7 +10,7 @@ IIS/Apache/Nginx + PHP4/PHP5.2+/PHP5.3+ + MySQL4/5
 2.Linux/Unix 平台
 Apache + PHP4/PHP5 + MySQL3/4/5 (PHP必须在非安全模式下运行)
 
-建议使用平台：Linux + Apache2.2 + PHP5.2/PHP5.3 + MySQL5.0
+建议使用平台：Linux + Apache2.2 + PHP5.2/PHP5.3( php-gd) + MySQL5.0
 
 3.PHP必须环境或启用的系统函数：
 allow_url_fopen
